@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  box-sizing: border-box;
+  padding: 2rem;
+
+  font-family: 'Montserrat', sans-serif;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #36558F;
+  color: #0D0A07;
+}
+
+.App .content {
+  width: 80%;
+}
+
+.App .content .logo {
+  height: 80px;
+
+  margin-bottom: 3rem;
+}
+
+@media( max-width: 768px ) {
+  .App .content {
+    width: 100%;
+  }
+}
