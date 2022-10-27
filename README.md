@@ -2,6 +2,7 @@
 
 ## 🧐 Desafio <a name = "desafio"></a>
 Desenvolver um portal de recursos educacionais digitais (RED) fictício utilizando o padrão PWA (Progressive WebApp).
+
 ```md
 #### Catálogo
 Para cada recurso educacional deve ter as seguintes informações:
@@ -17,6 +18,8 @@ Para cada recurso educacional deve ter as seguintes informações:
 #### Atividades
 + Adicionar pelo menos 50 RED’s exibindo 15 por página;
 + Consumir os dados: https://api.portalmec.c3sl.ufpr.br/v1/learning_objects
+```
+
 
 #### Imagem
 ![alt text](https://github.com/karensamara/educatec/blob/main/printPagina.jpeg?raw=true)
