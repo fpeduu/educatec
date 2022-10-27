@@ -18,7 +18,7 @@ const Cards = (props) => {
                     
                     let images = []
                     
-                    for (let i = 0; i < data.length; i++) {images.push(`https://picsum.photos/300/150?random=${i}`)}
+                    for (let i = 0; i < data.length; i++) {images.push(`https://api.portalmec.c3sl.ufpr.br/${data[i].thumbnail}`)}
         
                     for (let i = 0; i < data.length; i++) {
                         let subjects = []
