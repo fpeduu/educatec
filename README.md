@@ -19,4 +19,4 @@ Para cada recurso educacional deve ter as seguintes informações:
 + Consumir os dados: https://api.portalmec.c3sl.ufpr.br/v1/learning_objects
 
 #### Imagem
-![print](./printPagina.jpeg)
+![alt text](https://github.com/karensamara/educatec/blob/main/printPagina.jpeg?raw=true)
