@@ -17,3 +17,6 @@ Para cada recurso educacional deve ter as seguintes informações:
 #### Atividades
 + Adicionar pelo menos 50 RED’s exibindo 15 por página;
 + Consumir os dados: https://api.portalmec.c3sl.ufpr.br/v1/learning_objects
+
+#### Imagem
+![print](./printPagina.jpeg)
